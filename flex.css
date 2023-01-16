@@ -1,0 +1,33 @@
+.practice {
+  margin-top: 20px;
+  display: flex;
+}
+
+.flex1 {
+  background-color: lightpink;
+  height: 50px;
+  width: 100px;
+
+}
+
+.flex2 {
+  background-color: lightblue;
+  height: 50px;
+  width: 200px;
+
+}
+
+.flextext {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text1 {}
+
+.text2 {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
